@@ -1,0 +1,110 @@
+23-NOV-2017
+Program: ricexam45.pc
+                                                       CPUT
+                                                  FINAL EXAM RESULTS - MONTH 11 0 0 0 - YEAR -  2017
+
+                                              INFORMATICS & DESIGN
+                                              228 INFORMATION TECHNOLOGY
+                                              HC: INFO AND COMMUNICATION TECHNOLOGY(HCINCT)
+                                              Study Period :  1
+                                                                                            Year   Paper    Next    Exam  Final
+Student  Name              Number     Subject                                               Mark  1   2   3 Period  Mark  Mark  Sym
+----------------------------------------------------------- -----------------------------------------------------------------------
+
+STUDENT H                200000001    BSP100S BUSINESS PRACTICE 1                            60                             60   P
+                                      CAP100S COMPUTER APPLICATIONS 1                        73                             73   P
+                                      CHW100S COMPUTER HARDWARE 1                            60                             60   P
+                                      CPN100S COMPUTER NETWORKS 1                            48                             48   F
+                                      CSW100S COMPUTER SOFTWARE 1                            73                             73   P
+                                      PCO100S PERSONAL COMMUNICATION 1                       68                             68   P
+                                      QNT100S QUANTITATIVE TECHNIQUES 1                      77                             77   PD
+                                      SCM100S STRATEGIC COMMUNICATION 1                      68                             68   P
+                                      SPR100S INFORMATION TECHNOLOGY SERVICES PROJECT 1      75                             75   PD
+                                      SSP100S INFORMATION TECHNOLOGY SERVICES PRACTICE 1     67                             67   P
+                                      SST100S INFORMATION TECHNOLOGY SERVICES THEORY 1       67                             67   P
+
+STUDENT G                 200000002   BSP100S BUSINESS PRACTICE 1                            53                             53   P
+                                      CAP100S COMPUTER APPLICATIONS 1                        81                             81   PD
+                                      CHW100S COMPUTER HARDWARE 1                            72                             72   P
+                                      CPN100S COMPUTER NETWORKS 1                            63                             63   P
+                                      CSW100S COMPUTER SOFTWARE 1                            81                             81   PD
+                                      PCO100S PERSONAL COMMUNICATION 1                       75                             75   PD
+                                      QNT100S QUANTITATIVE TECHNIQUES 1                      85                             85   PD
+                                      SCM100S STRATEGIC COMMUNICATION 1                      75                             75   PD
+                                      SPR100S INFORMATION TECHNOLOGY SERVICES PROJECT 1      74                             74   P
+                                      SSP100S INFORMATION TECHNOLOGY SERVICES PRACTICE 1     77                             77   PD
+                                      SST100S INFORMATION TECHNOLOGY SERVICES THEORY 1       73                             73   P
+
+
+STUDENT F                200000003    BSP100S BUSINESS PRACTICE 1                            54                             54   P
+                                      CAP100S COMPUTER APPLICATIONS 1                        73                             73   P
+                                      CHW100S COMPUTER HARDWARE 1                            65                             65   P
+                                      CPN100S COMPUTER NETWORKS 1                            50                             50   P
+                                      CSW100S COMPUTER SOFTWARE 1                            73                             73   P
+                                      PCO100S PERSONAL COMMUNICATION 1                       58                             58   P
+                                      QNT100S QUANTITATIVE TECHNIQUES 1                      81                             81   PD
+                                      SCM100S STRATEGIC COMMUNICATION 1                      58                             58   P
+                                      SPR100S INFORMATION TECHNOLOGY SERVICES PROJECT 1      48                             48   F
+                                      SSP100S INFORMATION TECHNOLOGY SERVICES PRACTICE 1     61                             61   P
+                                      SST100S INFORMATION TECHNOLOGY SERVICES THEORY 1       61                             61   P
+
+STUDENT E                  200000004  BSP100S BUSINESS PRACTICE 1                            65                             65   P
+                                      CAP100S COMPUTER APPLICATIONS 1                        65                             65   P
+                                      CHW100S COMPUTER HARDWARE 1                            28                             28   F
+                                      CPN100S COMPUTER NETWORKS 1                            41                             41   F
+                                      CSW100S COMPUTER SOFTWARE 1                            65                             65   P
+                                      PCO100S PERSONAL COMMUNICATION 1                       66                             66   P
+                                      QNT100S QUANTITATIVE TECHNIQUES 1                      72                             72   P
+                                      SCM100S STRATEGIC COMMUNICATION 1                      66                             66   P
+                                      SPR100S INFORMATION TECHNOLOGY SERVICES PROJECT 1      66                             66   P
+                                      SSP100S INFORMATION TECHNOLOGY SERVICES PRACTICE 1     58                             58   P
+                                      SST100S INFORMATION TECHNOLOGY SERVICES THEORY 1       58                             58   P
+
+STUDENT D                  200000005  BSP100S BUSINESS PRACTICE 1                            61                             61   P
+                                      CAP100S COMPUTER APPLICATIONS 1                        62                             62   P
+                                      CHW100S COMPUTER HARDWARE 1                            59                             59   P
+                                      CPN100S COMPUTER NETWORKS 1                            46                             46   F
+                                      CSW100S COMPUTER SOFTWARE 1                            62                             62   P
+                                      PCO100S PERSONAL COMMUNICATION 1                       63                             63   P
+                                      QNT100S QUANTITATIVE TECHNIQUES 1                      76                             76   PD
+                                      SCM100S STRATEGIC COMMUNICATION 1                      63                             63   P
+                                      SPR100S INFORMATION TECHNOLOGY SERVICES PROJECT 1      46                             46   F
+                                      SSP100S INFORMATION TECHNOLOGY SERVICES PRACTICE 1     62                             62   P
+                                      SST100S INFORMATION TECHNOLOGY SERVICES THEORY 1       62                             62   P
+
+
+STUDENT C              200000006      BSP100S BUSINESS PRACTICE 1                            65                             65   P
+                                      CAP100S COMPUTER APPLICATIONS 1                        75                             75   PD
+                                      CHW100S COMPUTER HARDWARE 1                            75                             75   PD
+                                      CPN100S COMPUTER NETWORKS 1                            65                             65   P
+                                      CSW100S COMPUTER SOFTWARE 1                            75                             75   PD
+                                      PCO100S PERSONAL COMMUNICATION 1                       68                             68   P
+                                      QNT100S QUANTITATIVE TECHNIQUES 1                      80                             80   PD
+                                      SCM100S STRATEGIC COMMUNICATION 1                      68                             68   P
+                                      SPR100S INFORMATION TECHNOLOGY SERVICES PROJECT 1      48                             48   F
+                                      SSP100S INFORMATION TECHNOLOGY SERVICES PRACTICE 1     64                             64   P
+                                      SST100S INFORMATION TECHNOLOGY SERVICES THEORY 1       64                             64   P
+
+STUDENT B                 200000007   BSP100S BUSINESS PRACTICE 1                            57                             57   P
+                                      CAP100S COMPUTER APPLICATIONS 1                        75                             75   PD
+                                      CHW100S COMPUTER HARDWARE 1                            81                             81   PD
+                                      CPN100S COMPUTER NETWORKS 1                            73                             73   P
+                                      CSW100S COMPUTER SOFTWARE 1                            75                             75   PD
+                                      PCO100S PERSONAL COMMUNICATION 1                       66                             66   P
+                                      QNT100S QUANTITATIVE TECHNIQUES 1                      74                             74   P
+                                      SCM100S STRATEGIC COMMUNICATION 1                      66                             66   P
+                                      SPR100S INFORMATION TECHNOLOGY SERVICES PROJECT 1      74                             74   P
+                                      SSP100S INFORMATION TECHNOLOGY SERVICES PRACTICE 1     62                             62   P
+                                      SST100S INFORMATION TECHNOLOGY SERVICES THEORY 1       62                             62   P
+
+DANIELS A                  200000008  BSP100S BUSINESS PRACTICE 1                            81                             81   PD
+                                      CAP100S COMPUTER APPLICATIONS 1                        86                             86   PD
+                                      CHW100S COMPUTER HARDWARE 1                            71                             71   P
+                                      CPN100S COMPUTER NETWORKS 1                            60                             60   P
+                                      CSW100S COMPUTER SOFTWARE 1                            86                             86   PD
+                                      PCO100S PERSONAL COMMUNICATION 1                       76                             76   PD
+                                      QNT100S QUANTITATIVE TECHNIQUES 1                      83                             83   PD
+                                      SCM100S STRATEGIC COMMUNICATION 1                      76                             76   PD
+                                      SPR100S INFORMATION TECHNOLOGY SERVICES PROJECT 1      87                             87   PD
+                                      SSP100S INFORMATION TECHNOLOGY SERVICES PRACTICE 1     75                             75   PD
+                                      SST100S INFORMATION TECHNOLOGY SERVICES THEORY 1       75                             75   PD
